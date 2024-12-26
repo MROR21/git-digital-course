@@ -1,2 +1,2 @@
-# git-digital-course
-d
+# Curso Digital: Git
+
